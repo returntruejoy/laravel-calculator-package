@@ -1,0 +1,12 @@
+{
+    "name": "turjoy/calculator",
+    "description": "This simple calculator adds, subtracts, multiplies and divides.",
+    "authors": [
+        {
+            "name": "Turjoy",
+            "email": "imturjoy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
